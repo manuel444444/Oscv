@@ -43,7 +43,7 @@ font-family: 'Montserrat', sans-serif;
  
 }
 .cloud1{
- position: relative;
+ position: absolute;
  left: 190px;
  width: 150px;
  
