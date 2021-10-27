@@ -1,0 +1,135 @@
+body{
+color: #40514e;
+ margin: 0;
+ background-color: white;
+ text-align: center;
+ font-family: 'Merriweather', serif;
+}
+h1{
+ margin: 0;
+ padding-bottom: 0;
+ font-size: 90px;
+font-family: 'Sacramento', cursive;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #4E9F3D;;
+}
+.intro{
+   width: 30%;
+   margin: auto;
+}
+h3{
+ color: #1E5128;
+font-family: 'Montserrat', sans-serif;
+}
+.top{
+ background-color: #D8E9A8;
+ margin: 0;
+ padding-top: 50px;
+}
+.underline{
+ text-decoration: underline;
+}
+.middle{
+ 
+}
+.buttom{
+
+}
+#mountain{
+ width: 100%;
+ 
+}
+.cloud1{
+ position: relative;
+ left: 190px;
+ width: 150px;
+ 
+}
+.cloud2{
+ position: absolute;
+ left: 300px;
+ width: 150px;
+}
+#light{
+ width: 90px;
+ position: absolute;
+ left: 320px;
+ top: 360px;
+}
+#bitmoji{
+ width: 150px;
+ margin: 0;
+}
+.icon{
+ width: 50%;
+ margin: 100px auto 100px auto;
+ text-align: left;
+ line-height: 2;
+}
+.cpp{
+ float: left;
+ width: 25%;
+ margin-right: 30px;
+}
+.css{
+ float: left;
+ width: 25%;
+ margin-right: 30px;
+
+}
+.html{
+ float: right;
+ width: 25%;
+ margin-left: 30px;
+
+}
+.social{
+ width: 40px;
+ padding: 30px 10px 0 10px;
+}
+hr{
+ border-style: dotted;
+ border-left: 0;
+ border-bottom: 0;
+ border-right: 0;
+ border-width: 6px;
+ width: 4%;
+ border-color: #eaf6f6;
+ 
+}
+.buttom
+{
+ background-color: #191A19;
+ color:#eaf6f6;
+ margin-top: 40px;
+ margin-bottom: 0;
+ height: 14;
+ 
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #125e0e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2fc440;
+  background-image: -webkit-linear-gradient(top, #2fc440, #079e0f);
+  background-image: -moz-linear-gradient(top, #2fc440, #079e0f);
+  background-image: -ms-linear-gradient(top, #2fc440, #079e0f);
+  background-image: -o-linear-gradient(top, #2fc440, #079e0f);
+  background-image: linear-gradient(to bottom, #2fc440, #079e0f);
+  text-decoration: none;
+}
+h6{
+   font-size: 0.75rem;
+}
